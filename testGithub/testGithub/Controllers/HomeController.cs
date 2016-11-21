@@ -11,6 +11,7 @@ namespace testGithub.Controllers
         // GET: Home
         public ActionResult Index()
         {
+            int i;
             return View();
         }
     }
